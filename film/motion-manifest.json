@@ -1,0 +1,26 @@
+{
+  "title": "Synthwave",
+  "study": "sw01",
+  "bpm": 110,
+  "source_audio": "preview/synthwave-simple-synth-preview.mp3",
+  "source_audio_sha256": "17da7cc5eac535174f56f47d7eb4a440624157ec2833c0e9fc040cf286ee70e9",
+  "source_midi": "midi/sw01-night-drive/sw01-night-drive-combined.mid",
+  "source_midi_sha256": "a186cb25b58a20fc51ab561d89f47c3b4905d0ac04070b14daf08f2b00bb10ed",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a6c43b252da10da54e30b12e0ca9c6a854c59a075f127b31b041e66ad572561b",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "0bebd920d20d524bf334db93fd0d0ef8f18e7a352cc37f865b169909e08e5e96",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "213247a420f66755f2fab5078f00677335e683b2542f7bef5e7c58213233ccc5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
