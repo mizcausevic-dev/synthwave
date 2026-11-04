@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/synthwave-simple-synth-preview.mp3",
+  "preview_sha256": "17da7cc5eac535174f56f47d7eb4a440624157ec2833c0e9fc040cf286ee70e9",
+  "source_midi_path": "midi/sw01-night-drive/sw01-night-drive-combined.mid",
+  "source_midi_sha256": "a186cb25b58a20fc51ab561d89f47c3b4905d0ac04070b14daf08f2b00bb10ed",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "sw01",
+    "start_seconds": 0,
+    "end_seconds": 69.818
+  },
+  "measurement": {
+    "sample_peak": 0.136426,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

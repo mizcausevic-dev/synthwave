@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+sw01,Night Drive,pack-local equal-tempered pitch collection,A,110,4/4,480,32,61440,midi/sw01-night-drive/sw01-night-drive-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sw02,Static Coast,pack-local equal-tempered pitch collection,C,110,4/4,480,32,61440,midi/sw02-static-coast/sw02-static-coast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sw03,Neon Road,pack-local equal-tempered pitch collection,D#,110,4/4,480,32,61440,midi/sw03-neon-road/sw03-neon-road-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sw04,Morning Line,pack-local equal-tempered pitch collection,A#,110,4/4,480,32,61440,midi/sw04-morning-line/sw04-morning-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
