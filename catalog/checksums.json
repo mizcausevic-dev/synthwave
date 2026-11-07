@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 780,
-      "sha256": "8885febdc0bce6b493c2dd4cf3f8bd4be7d9f62d0c84ce40e99ad07548f5a4e3"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3134,
-      "sha256": "6719a5c3eeccc4220c4d14858becc635118d8942e8ac45d16d0036b85175d715"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -88,8 +73,8 @@
     },
     {
       "path": "downloads/synthwave-midi.zip",
-      "bytes": 25335,
-      "sha256": "85051e6be39f49a506456cef1fc29ca1f5d6785f6a88a94cd9964f72c936acd7"
+      "bytes": 26322,
+      "sha256": "37ab379bc0085e63bcb7d76dbd9497cb76df4ed7db644dbdc20d600180cd0d4f"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -123,8 +108,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9193,
-      "sha256": "14d24b75c8c6c0e772a1d54a5dc5dc76554dcaa9b6b85fdb71e1b1279c626d0c"
+      "bytes": 9383,
+      "sha256": "3ea878e7d706660083145432d2c636a8b886995301cfad74fc69f1138488b94a"
     },
     {
       "path": "midi/sw01-night-drive/chord_pulse.mid",
@@ -267,6 +252,16 @@
       "sha256": "f5a2a7e6ce29c4379c2a5dc2c6a753b1c0f9656aa1ba55c23ee678c444b7b3c7"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "8885febdc0bce6b493c2dd4cf3f8bd4be7d9f62d0c84ce40e99ad07548f5a4e3"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1122,
       "sha256": "37a8c945917415d72070fdaa6096bf022418e8a695339b57034322718e1e4f1a"
@@ -275,6 +270,16 @@
       "path": "preview/synthwave-simple-synth-preview.mp3",
       "bytes": 1689017,
       "sha256": "17da7cc5eac535174f56f47d7eb4a440624157ec2833c0e9fc040cf286ee70e9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3249,
+      "sha256": "46f8bd7c6b9a1ebc520c3d94fc6a4ed328349e7e680f7990246a7a4cffdc53d4"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
